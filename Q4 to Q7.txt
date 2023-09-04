@@ -1,0 +1,22 @@
+Q4: Please paste here the URL for the exercise 4 - Remote - Server that serves static files.
+
+It should include your IP address: http://xxx.xxx.xxx.xxx/test.html
+
+Ans4:: http://18.212.213.88/test.html
+
+Q5: Please paste here the URL for the exercise 5 - Remote - Execute files at runtime.
+
+It should include your IP address: http://xxx.xxx.xxx.xxx/myfile.php
+
+Ans5::http://18.212.213.88/myfile.php
+
+Q6: Please paste here the URL for the exercise 6 - Remote - Servers with ongoing executing files.
+
+It should include your IP address: http://xxx.xxx.xxx.xxx:3000
+
+Ans6::http://18.212.213.88:3000/
+
+Q7: Paste here the URL to your GitHub repo git-test1.
+
+Ans7::https://github.com/sneha-990/git-test1
+
